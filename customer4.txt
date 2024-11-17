@@ -1,0 +1,2 @@
+customer4#password#0#0#inactive
+John#Doe#03/03/2003#qwd#dwq#dqw#dqw

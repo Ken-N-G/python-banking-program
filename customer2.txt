@@ -1,0 +1,2 @@
+customer2#password#0#0#inactive
+boom#boom#04/06/1990#32132#3123#123#123
